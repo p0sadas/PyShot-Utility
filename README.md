@@ -33,17 +33,17 @@ Windows OS (for native notifications and hotkeys)
 Installation
 Clone the repository:
 
-Bash
+
 
 git clone [https://github.com/p0sadas/PyShot-Utility.git](https://github.com/p0sadas/PyShot-Utility.git)
 Install dependencies:
 
-Bash
+
 
 pip install -r requirements.txt
 Run the utility:
 
-Bash
+
 
 python src/main.pyw
 ⌨️ Usage
