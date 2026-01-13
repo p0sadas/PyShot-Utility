@@ -52,14 +52,22 @@ PyShot-Utility/
 
 ### Prerequisites
 
+<<<<<<< HEAD
 > **Requirements:**
 >
 > - 🐍 Python 3.x
 > - 🪟 Windows OS (for native notifications and hotkeys)
+=======
+
+>>>>>>> 879f437088e3442d4e72445482fa7f31afe79585
 
 ### Installation
 
+<<<<<<< HEAD
 **1️⃣ Clone the repository:**
+=======
+
+>>>>>>> 879f437088e3442d4e72445482fa7f31afe79585
 
 ```bash
 git clone https://github.com/p0sadas/PyShot-Utility.git
@@ -72,7 +80,11 @@ cd PyShot-Utility
 pip install -r requirements.txt
 ```
 
+<<<<<<< HEAD
 **3️⃣ Run the utility:**
+=======
+
+>>>>>>> 879f437088e3442d4e72445482fa7f31afe79585
 
 ```bash
 python src/main.pyw
